@@ -48,3 +48,22 @@ Generates a strong password and estimates its entropy/security level.
 python task3-pw_generator.py
 ```
 
+----------------------------------------------------------------------------------------------------
+
+## task4_Quiz_Game.py
+### Project Title
+**Quiz Game (Console App)**
+
+### Description
+A command-line quiz game that asks 5 multiple-choice questions and calculates your score.
+- Displays a question with multiple options.
+- Accepts user input for the answer and checks if it matches the correct option.
+- Shows the final score out of 5.
+- Prompts to play again until you type anything other than `yes`.
+
+### How to Run
+```bash
+python task4_Quiz_Game.py
+```
+
+
